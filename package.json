@@ -1,6 +1,6 @@
 {
   "name": "three-mtl-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "node module for the three mtl loader",
   "main": "index.js",
   "scripts": {
