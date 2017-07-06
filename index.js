@@ -357,7 +357,7 @@ MTLLoader.MaterialCreator.prototype = {
         return url;
       }
 
-      return baseUrl + url;
+      return baseUrl + encodeURIComponent(url);
     };
     
     function setMapForType ( mapType, value ) {
